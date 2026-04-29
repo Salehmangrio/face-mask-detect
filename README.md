@@ -11,6 +11,7 @@ A full-stack web application that detects face masks in images using a custom de
 
 ## 📋 Table of Contents
 
+- [Frontend UI/UX](#mainpage)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
@@ -23,6 +24,9 @@ A full-stack web application that detects face masks in images using a custom de
 - [License](#license)
 
 ---
+## MainPage
+![Main Page](./main_page.png)
+
 
 ## ✨ Features
 
